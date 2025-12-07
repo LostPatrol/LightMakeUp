@@ -1,11 +1,3 @@
-<!--
- * @Author: LostPatrol_3 2823931730@qq.com
- * @Date: 2025-10-05 00:02:22
- * @LastEditors: LostPatrol_3 2823931730@qq.com
- * @LastEditTime: 2025-12-07 16:15:50
- * @FilePath: \MakeUp-UltraFast-9.3e\README.md
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
--->
 # LightMakeUp
 A Simple Minecraft shader (Java).
 
@@ -21,9 +13,9 @@ This project is created EXCLUSIVELY as a final assignment for the "Virtual Reali
 
 ## Tested on
 * Minecraft 1.21.4 (Java Edition)
-* Nvidia RTX4070SUPER
+* Nvidia RTX
 * Windows 11
-* Optifine J3
+* Optifine 1.21.4 J3
 
 ## Credit
 
